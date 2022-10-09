@@ -1,9 +1,13 @@
 # FastWeb
 WEB架構的企業級云平臺，運用托放式網站建置工具、整合物聯網與企業資源管理，無需技術背景，就能建置企業管理網站。透過最新的移動應用程式，從世界任何角落輕鬆管理。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 ## FastWeb 快速開發平臺
 
