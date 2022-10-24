@@ -7,7 +7,7 @@ WEB架構的企業級云平臺，運用托放式網站建置工具、整合物�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 ## FastWeb 快速開發平臺
 
